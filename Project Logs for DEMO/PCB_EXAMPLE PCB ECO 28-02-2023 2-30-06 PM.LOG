@@ -1,0 +1,84 @@
+Added Component: Designator=U1(MODULE_SARA-R510S-00B - CORRECTED)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SARA-R510S-00B/u-blox/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "U-Blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SARA-R510S-00B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SMD-96 u-blox"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SARA-R510S-00B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SARA-R510S-00B/u-blox/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND1 Pin=U1-1
+Added Pin To Net: NetName=GND1 Pin=U1-3
+Added Pin To Net: NetName=GND1 Pin=U1-5
+Added Pin To Net: NetName=GND1 Pin=U1-14
+Added Pin To Net: NetName=GND1 Pin=U1-20
+Added Pin To Net: NetName=GND1 Pin=U1-21
+Added Pin To Net: NetName=GND1 Pin=U1-22
+Added Pin To Net: NetName=GND1 Pin=U1-30
+Added Pin To Net: NetName=GND1 Pin=U1-32
+Added Pin To Net: NetName=GND1 Pin=U1-43
+Added Pin To Net: NetName=GND1 Pin=U1-50
+Added Pin To Net: NetName=GND1 Pin=U1-54
+Added Pin To Net: NetName=GND1 Pin=U1-55
+Added Pin To Net: NetName=GND1 Pin=U1-57
+Added Pin To Net: NetName=GND1 Pin=U1-58
+Added Net: Name=GND1
+Added Pin To Net: NetName=GND2 Pin=U1-59
+Added Pin To Net: NetName=GND2 Pin=U1-60
+Added Pin To Net: NetName=GND2 Pin=U1-61
+Added Pin To Net: NetName=GND2 Pin=U1-63
+Added Pin To Net: NetName=GND2 Pin=U1-64
+Added Pin To Net: NetName=GND2 Pin=U1-65
+Added Pin To Net: NetName=GND2 Pin=U1-66
+Added Pin To Net: NetName=GND2 Pin=U1-67
+Added Pin To Net: NetName=GND2 Pin=U1-68
+Added Pin To Net: NetName=GND2 Pin=U1-69
+Added Pin To Net: NetName=GND2 Pin=U1-70
+Added Pin To Net: NetName=GND2 Pin=U1-71
+Added Pin To Net: NetName=GND2 Pin=U1-72
+Added Pin To Net: NetName=GND2 Pin=U1-73
+Added Net: Name=GND2
+Added Pin To Net: NetName=GND3 Pin=U1-75
+Added Pin To Net: NetName=GND3 Pin=U1-76
+Added Pin To Net: NetName=GND3 Pin=U1-77
+Added Pin To Net: NetName=GND3 Pin=U1-78
+Added Pin To Net: NetName=GND3 Pin=U1-79
+Added Pin To Net: NetName=GND3 Pin=U1-80
+Added Pin To Net: NetName=GND3 Pin=U1-81
+Added Pin To Net: NetName=GND3 Pin=U1-82
+Added Pin To Net: NetName=GND3 Pin=U1-83
+Added Pin To Net: NetName=GND3 Pin=U1-84
+Added Pin To Net: NetName=GND3 Pin=U1-85
+Added Pin To Net: NetName=GND3 Pin=U1-86
+Added Pin To Net: NetName=GND3 Pin=U1-87
+Added Pin To Net: NetName=GND3 Pin=U1-88
+Added Pin To Net: NetName=GND3 Pin=U1-89
+Added Net: Name=GND3
+Added Pin To Net: NetName=GND4 Pin=U1-90
+Added Pin To Net: NetName=GND4 Pin=U1-91
+Added Pin To Net: NetName=GND4 Pin=U1-92
+Added Pin To Net: NetName=GND4 Pin=U1-93
+Added Pin To Net: NetName=GND4 Pin=U1-94
+Added Pin To Net: NetName=GND4 Pin=U1-95
+Added Pin To Net: NetName=GND4 Pin=U1-96
+Added Net: Name=GND4
+Added Pin To Net: NetName=NetU1_44 Pin=U1-44
+Added Net: Name=NetU1_44
+Added Pin To Net: NetName=NetU1_47 Pin=U1-47
+Added Net: Name=NetU1_47
+Added Pin To Net: NetName=NetU1_48 Pin=U1-48
+Added Net: Name=NetU1_48
+Added Pin To Net: NetName=NetU1_49 Pin=U1-49
+Added Net: Name=NetU1_49
+Added Pin To Net: NetName=USB_D_N Pin=U1-28
+Added Net: Name=USB_D_N
+Added Pin To Net: NetName=USB_D_P Pin=U1-29
+Added Net: Name=USB_D_P
+Added Pin To Net: NetName=VCC Pin=U1-51
+Added Pin To Net: NetName=VCC Pin=U1-52
+Added Pin To Net: NetName=VCC Pin=U1-53
+Added Net: Name=VCC
+Added Class: Name=Example_1
+Added Differential Pair: Name=USB_D
+Added Room: Name=Example_1

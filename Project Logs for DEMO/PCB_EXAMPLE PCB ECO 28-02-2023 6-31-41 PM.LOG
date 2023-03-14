@@ -1,0 +1,60 @@
+Added Component: Designator=U2(XCVR_NRF5340-QKAA-R7)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/NRF5340-QKAA-R7/Nordic+Semiconductor+ASA/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic Semiconductor ASA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF5340-QKAA-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/NRF5340-QKAA-R7/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF5340-QKAA-R7/Nordic+Semiconductor+ASA/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U2-A19
+Added Pin To Net: NetName=VCC Pin=U2-AC1
+Added Pin To Net: NetName=VCC Pin=U2-AG1
+Added Pin To Net: NetName=VCC Pin=U2-AJ31
+Added Pin To Net: NetName=VCC Pin=U2-AL3
+Added Pin To Net: NetName=VCC Pin=U2-AL7
+Added Pin To Net: NetName=VCC Pin=U2-AL11
+Added Pin To Net: NetName=VCC Pin=U2-AL17
+Added Pin To Net: NetName=VCC Pin=U2-AL25
+Added Pin To Net: NetName=VCC Pin=U2-B28
+Added Pin To Net: NetName=VCC Pin=U2-C1
+Added Pin To Net: NetName=VCC Pin=U2-E31
+Added Pin To Net: NetName=VCC Pin=U2-N31
+Added Pin To Net: NetName=VCC Pin=U2-U1
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=GND Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-37
+Added Pin To Net: NetName=GND Pin=U2-38
+Added Pin To Net: NetName=GND Pin=U2-39
+Added Pin To Net: NetName=GND Pin=U2-40
+Added Pin To Net: NetName=GND Pin=U2-41
+Added Pin To Net: NetName=GND Pin=U2-43
+Added Pin To Net: NetName=GND Pin=U2-44
+Added Pin To Net: NetName=GND Pin=U2-45
+Added Pin To Net: NetName=GND Pin=U2-46
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=GND Pin=U2-48
+Added Pin To Net: NetName=GND Pin=U2-49
+Added Pin To Net: NetName=GND Pin=U2-50
+Added Pin To Net: NetName=GND Pin=U2-51
+Added Pin To Net: NetName=GND Pin=U2-104
+Added Pin To Net: NetName=GND Pin=U2-A25
+Added Pin To Net: NetName=GND Pin=U2-B12
+Added Pin To Net: NetName=GND Pin=U2-B26
+Added Pin To Net: NetName=GND Pin=U2-G1
+Added Pin To Net: NetName=GND Pin=U2-H2
+Added Pin To Net: NetName=GND Pin=U2-J31
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC?_2 Pin=U2-A27
+Added Pin To Net: NetName=NetC?_2 Pin=U2-G31
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetU1_26 Pin=U1-26
+Added Net: Name=NetU1_26
+Added Pin To Net: NetName=NetU1_27 Pin=U1-27
+Added Net: Name=NetU1_27
+Change Class Name : Old Net Name=Example_1 New Net Name=modem
+Added Class: Name=nRF
+Change Room Name: Old Name=Example_1 New Name=nRF
+Change Room Scope: Old Scope=InComponentClass('Example_1') New Scope=InComponentClass('nRF')
+Added Room: Name=modem
