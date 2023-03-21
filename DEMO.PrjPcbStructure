@@ -1,6 +1,8 @@
 Record=TopLevelDocument|FileName=example connect.SchDoc|SheetNumber=4
 Record=SheetSymbol|SourceDocument=example connect.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=componant_example.SchDoc|SheetNumber=5|SymbolType=Normal|RawFileName=componant_example.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=example connect.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ATMEGA328PB_example.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=ATMEGA328PB_example.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=example connect.SchDoc|Designator=USB_in|SchDesignator=USB_in|FileName=USB_C2.SchDoc|SheetNumber=7|SymbolType=Normal|RawFileName=USB_C2.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=NoMainPathDocument|SourceDocument=example connect.SchDoc|FileName=modem.SchDoc|SheetNumber=1
 Record=NoMainPathDocument|SourceDocument=example connect.SchDoc|FileName=nRF.SchDoc|SheetNumber=2
 Record=NoMainPathDocument|SourceDocument=example connect.SchDoc|FileName=USB_C.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=example connect.SchDoc|FileName=USB_to_UART.SchDoc|SheetNumber=8
